@@ -1,0 +1,5 @@
+Resources:
+  S3BC8XR:
+    Type: 'AWS::S3::Bucket'
+    Properties: 
+        BucketName" : "demo.aws.ashi.example.com"
